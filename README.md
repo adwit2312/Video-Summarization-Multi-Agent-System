@@ -42,6 +42,18 @@ Agent 5 → Automated PDF Report Generation
 Final Multimodal Summary Report
 ```
 
+### Agents 1 & 2 - Transcript Processing
+![Agent 1](screenshots/agent1-2.png)
+
+### Agent 3 - Visual Analysis
+![Agent 3](screenshots/agent3.png)
+
+### Agent 4 - Multimodal Summarization
+![Agent 4](screenshots/agent4.png)
+
+### Agent 5 - PDF Report Generation
+![Agent 5](screenshots/agent5.png)
+
 ## 🧰 Technologies Used 
 
 ### Core Stack
